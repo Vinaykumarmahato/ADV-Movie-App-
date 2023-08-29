@@ -1,4 +1,4 @@
-# 🍿 Movie App Created By ADV Indian Coder
+# 🍿 Movie App Created By ADV Indian Coder [Check Live](https://advindiancoder.github.io/ADV-Movie-App-/)
 
 Welcome to the Movie App! 🎬🍿
 
